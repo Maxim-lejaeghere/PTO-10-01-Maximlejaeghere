@@ -1,0 +1,9 @@
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\bin\Debug\netstandard2.0\Bmi-Calculator.BL.deps.json
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\bin\Debug\netstandard2.0\Bmi-Calculator.BL.dll
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\bin\Debug\netstandard2.0\Bmi-Calculator.BL.pdb
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\obj\Debug\netstandard2.0\Bmi-Calculator.BL.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\obj\Debug\netstandard2.0\Bmi-Calculator.BL.AssemblyInfoInputs.cache
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\obj\Debug\netstandard2.0\Bmi-Calculator.BL.AssemblyInfo.cs
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\obj\Debug\netstandard2.0\Bmi-Calculator.BL.dll
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\obj\Debug\netstandard2.0\Bmi-Calculator.BL.pdb
+C:\Users\Maxim\source\repos\PTO-10-01\Bmi-Calculator.BL\obj\Debug\netstandard2.0\Bmi-Calculator.BL.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZV9rZzH39PvcV0bbYs6ScrMwlDCkqetrRMh5DjpVxFiM6Nsn30tmPyi6LL0dEKg9fh1mS2N/s24W4X/isWD6/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxim\\Source\\Repos\\PTO-10-01-Maximlejaeghere\\Bmi-Calculator.BL\\Bmi-Calculator.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
